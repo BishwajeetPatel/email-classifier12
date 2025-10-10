@@ -469,4 +469,5 @@ For issues, questions, or suggestions:
 
 ---
 
-**Built for MagicSlides.app Internship Assignment** • Last Updated: October 2025
+
+
